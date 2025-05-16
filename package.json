@@ -27,7 +27,7 @@
     "@ckeditor/ckeditor5-build-classic": "^42.0.0",
     "@ckeditor/ckeditor5-react": "^8.0.0",
     "@ckeditor/ckeditor5-upload": "^42.0.0",
-    "@prisma/client": "^5.11.0",
+    "@prisma/client": "^5.22.0",
     "@remix-run/dev": "^2.7.1",
     "@remix-run/node": "^2.7.1",
     "@remix-run/react": "^2.7.1",
